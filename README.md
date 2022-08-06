@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saltytatertot
 - 
-- 👀 I’m interested in Networks, User Interface, and Game Development
+- 👀 I’m interested in Networks, UI/UX, and Game Development
 - 
 - 🌱 I’m currently a student at Montana Technological University
 - 
